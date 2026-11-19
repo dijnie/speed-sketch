@@ -1,0 +1,8 @@
+{
+  "name": "Speed Sketch",
+  "description": "Race the clock across five quick-draw rounds while Gemini Decisions ranks your live ink strokes against 255 visual lookalikes across Easy, Medium, and Hard difficulty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
